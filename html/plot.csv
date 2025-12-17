@@ -1,0 +1,887 @@
+x,y,z,opacity,label
+-30,3,-34,0.0605,10 Tauri has 2 carriers
+-63,-26,-12,0.2426,13 Ceti has 10 carriers
+-64,-41,-71,0.0779,23 Arietis has 1 carriers
+2,0,19,0.0544,36 Ophiuchi has 2 carriers
+-72,-17,-21,0.1421,37 Ceti has 6 carriers
+-58,-32,-85,0.1545,47 Arietis has 18 carriers
+-59,-16,1,0.0888,6 Ceti has 20 carriers
+-1,-11,1,0.4277,61 Cygni has 13 carriers
+129,8,-35,0.0527,62 Ursae Majoris has 9 carriers
+80,46,-19,0.0916,63 chi Leonis has 2 carriers
+3,-8,14,0.1425,70 Ophiuchi has 12 carriers
+69,32,-12,0.1216,78 Iota Leonis has 0 carriers
+-16,10,-4,0.0668,82 Eridani has 15 carriers
+77,44,-5,0.2698,89 Leonis has 11 carriers
+-65,-19,-3,0.2104,9 Ceti has 19 carriers
+-63,-39,-74,0.2246,Aasgananu has 2 carriers
+9,81,27,0.0620,Aasgay has 6 carriers
+25,-18,-4,0.0763,Acihaut has 1 carriers
+13,6,-7,0.0695,AD Leonis has 6 carriers
+33,58,62,0.0553,Agatavun has 2 carriers
+-44,6,158,0.0695,Ahayan has 25 carriers
+-45,-9,25,0.2944,Aine has 1 carriers
+11,62,39,0.8307,Akandi has 7 carriers
+-34,-2,-33,0.0777,Akkadia has 16 carriers
+26,82,26,0.0559,Albangage has 2 carriers
+29,36,14,0.0807,Alchita has 43 carriers
+72,-36,-15,0.0729,Alcor has 69 carriers
+72,-34,-21,0.1635,Alioth has 0 carriers
+0,3,3,0.2307,Alpha Centauri has 101 carriers
+6,-14,64,0.2425,Alrai Sector DL-Y d106 has 14 carriers
+-10,-23,51,0.0770,Alrai Sector JW-W b1-6 has 1 carriers
+45,-61,96,0.5852,Alrai Sector KC-V c2-23 has 6 carriers
+1,-41,62,0.0768,Alrai Sector KH-V b2-7 has 1 carriers
+9,-16,65,0.5823,Alrai Sector LH-V b2-2 has 14 carriers
+-3,-14,56,0.0752,Alrai Sector LH-V b2-5 has 1 carriers
+-5,-14,63,0.1249,Alrai Sector LH-V b2-7 has 1 carriers
+34,-56,93,0.3155,Alrai Sector LS-T b3-2 has 1 carriers
+-16,-28,57,0.0647,Alrai Sector MC-V b2-5 has 5 carriers
+-11,-11,61,0.0659,Alrai Sector NC-V b2-4 has 1 carriers
+54,-48,98,0.1277,Alrai Sector ND-S b4-2 has 1 carriers
+-3,-12,11,0.2699,Altair has 39 carriers
+24,66,43,0.0990,Amalangkan has 5 carriers
+-58,-35,-101,0.1568,Amaunet has 4 carriers
+-171,19,0,0.0905,Amsitia has 1 carriers
+32,52,-27,0.1455,Amun has 6 carriers
+-160,102,188,0.2868,Apotanites has 21 carriers
+39,69,78,0.5152,Arexe has 13 carriers
+-45,-84,-163,0.0650,Arietis Sector HS-R a5-0 has 2 carriers
+-38,-41,-102,0.1588,Arietis Sector JD-H a11-1 has 0 carriers
+-101,-101,-164,0.5179,Arietis Sector JH-V b2-0 has 1 carriers
+-91,-99,-159,0.1475,Arietis Sector JH-V b2-1 has 2 carriers
+-43,-39,-92,0.1908,Arietis Sector NJ-F a12-4 has 1 carriers
+-61,-45,-98,0.2357,Arietis Sector TJ-Q b5-3 has 3 carriers
+-58,-43,-93,0.1798,Arietis Sector UJ-Q b5-1 has 1 carriers
+-63,-38,-90,0.2274,Arietis Sector UJ-Q b5-2 has 1 carriers
+-49,-38,-93,0.0569,Arietis Sector UJ-Q b5-6 has 1 carriers
+-76,-51,-100,0.0600,Arietis Sector VE-Q b5-5 has 2 carriers
+-71,-32,-100,0.3434,Arietis Sector WE-Q b5-3 has 1 carriers
+-3,-94,-149,0.1312,Arietis Sector ZF-W b2-3 has 1 carriers
+-43,12,-23,0.0582,Arinack has 2 carriers
+6,49,33,0.4892,Arro Naga has 22 carriers
+-144,-80,-333,0.1253,Asterope has 32 carriers
+18,50,6,0.1172,Atum has 7 carriers
+-65,-34,103,0.0606,Audumui has 1 carriers
+44,-16,-11,0.0959,Aulis has 2 carriers
+-5,14,-6,0.0831,Avik has 2 carriers
+47,70,71,0.4897,Baijungu has 9 carriers
+-66,-34,-102,0.1105,Balante has 34 carriers
+1,-3,5,0.2753,Barnard.s Star has 121 carriers
+-100,161,-17,1.6584,Bastanien has 1 carriers
+46,-45,97,0.3045,Bastes has 2 carriers
+-64,-14,-14,0.2109,BD-11 192 has 4 carriers
+-73,-10,-18,0.1507,BD-14 249 has 3 carriers
+0,-53,68,0.0771,BD+04 3919 has 1 carriers
+41,-61,89,0.2646,BD+10 3250 has 1 carriers
+-56,-54,-84,0.0586,BD+28 413 has 1 carriers
+33,-15,0,0.0857,BD+47 2112 has 3 carriers
+6,56,36,0.6070,Bentin has 44 carriers
+5,69,28,0.2297,Bevan.s Hope has 35 carriers
+36,42,19,0.0777,Bhaguti has 1 carriers
+-85,-64,-34,0.6042,Bhaja has 2 carriers
+-87,10,97,0.1275,Bhare has 14 carriers
+2,59,42,0.2228,Bhil Mina has 30 carriers
+-1,-11,15,0.1545,Bhritzameno has 25 carriers
+-73,-53,93,0.1957,Bhunai has 3 carriers
+13,-7,2,0.0641,Bidmere has 3 carriers
+26,-14,-15,0.1880,Bodedi has 4 carriers
+-16,-11,-1,0.0795,BR Piscium has 1 carriers
+3,27,27,0.0831,Bran has 3 carriers
+42,81,58,0.0704,Bruthanvan has 1 carriers
+18,66,25,0.4103,Bunda has 123 carriers
+-105,112,-16,0.2379,Bunuson has 9 carriers
+-100,104,-6,0.2021,Calennero has 13 carriers
+-66,-45,114,0.3054,Capricorni Sector FR-V b2-6 has 2 carriers
+-72,-53,97,0.2392,Capricorni Sector GW-W c1-17 has 10 carriers
+-73,-60,115,0.1105,Capricorni Sector GW-W c1-7 has 2 carriers
+-99,-39,107,0.1668,Capricorni Sector IM-V b2-2 has 1 carriers
+-15,-6,15,0.0553,Carener has 7 carriers
+-130,102,-41,0.0548,Carverda has 3 carriers
+30,46,33,0.2593,CD-33 8748 has 24 carriers
+49,71,69,0.7102,CD-34 9020 has 10 carriers
+41,60,63,0.0804,CD-35 9019 has 5 carriers
+-14,1,3,0.1668,CD-37 15492 has 2 carriers
+-148,-81,-337,0.1292,Celaeno has 33 carriers
+-4,129,-55,0.2256,Cennicenino has 12 carriers
+14,-349,-339,0.1194,Ceos has 33 carriers
+-128,32,-44,0.0914,Ceti Sector DQ-Y c14 has 1 carriers
+145,30,58,0.5853,Chakpa has 9 carriers
+-7,-47,62,0.0581,Chamunda has 4 carriers
+-9,-5,63,0.0600,Changthini has 1 carriers
+-76,-20,-26,0.0681,Chankun has 23 carriers
+-7,-69,50,0.0903,Chimba has 5 carriers
+-170,107,71,4.2670,Chnumar has 1 carriers
+22,70,41,0.1191,Chuelchs has 7 carriers
+30,132,-40,0.2157,Cigudates has 2 carriers
+-5,-20,61,0.0744,Clayakarma has 39 carriers
+-148,39,122,0.2093,Col 285 Sector BW-K b22-4 has 1 carriers
+-43,165,86,0.0603,Col 285 Sector DW-E a41-0 has 2 carriers
+-3,121,-43,0.3776,Col 285 Sector EG-N c7-23 has 15 carriers
+-5,111,-46,0.3530,Col 285 Sector EG-N c7-26 has 0 carriers
+-4,126,-49,0.4532,Col 285 Sector EG-N c7-28 has 13 carriers
+-21,147,-66,0.1485,Col 285 Sector EV-D b13-6 has 1 carriers
+4,124,-49,0.5088,Col 285 Sector FG-C b14-4 has 14 carriers
+-37,-235,54,0.6250,Col 285 Sector FN-J c9-15 has 3 carriers
+-14,129,-47,0.0874,Col 285 Sector HB-C b14-1 has 1 carriers
+-12,125,-46,0.1518,Col 285 Sector HB-C b14-2 has 4 carriers
+29,121,-39,0.7927,Col 285 Sector HR-A b15-1 has 1 carriers
+-179,123,-101,0.0527,Col 285 Sector IG-O c6-10 has 1 carriers
+-3,169,83,0.9978,Col 285 Sector JX-P b20-0 has 2 carriers
+-28,157,-82,0.1012,Col 285 Sector KA-J a25-2 has 1 carriers
+-42,-2,152,0.0631,Col 285 Sector KG-U a46-3 has 1 carriers
+27,-134,44,0.0650,Col 285 Sector KP-T b18-5 has 0 carriers
+-7,135,-43,0.0991,Col 285 Sector LH-A b15-7 has 1 carriers
+-217,13,-63,1.6317,Col 285 Sector LH-M c7-10 has 15 carriers
+-7,162,80,0.5492,Col 285 Sector LS-P b20-0 has 5 carriers
+-18,166,86,0.0750,Col 285 Sector LS-P b20-2 has 1 carriers
+14,-90,171,0.0584,Col 285 Sector MV-I b24-1 has 2 carriers
+12,-88,170,0.0845,Col 285 Sector MV-I b24-4 has 4 carriers
+7,-92,155,0.0780,Col 285 Sector MV-I b24-8 has 22 carriers
+-96,149,-13,0.1706,Col 285 Sector NC-L c8-23 has 1 carriers
+-28,155,-70,0.3112,Col 285 Sector NG-H a26-1 has 2 carriers
+28,124,-132,0.5082,Col 285 Sector NM-J b10-3 has 3 carriers
+6,-80,166,0.1109,Col 285 Sector NV-I b24-5 has 8 carriers
+9,-72,159,0.0529,Col 285 Sector NV-I b24-6 has 13 carriers
+-29,160,-68,0.2168,Col 285 Sector OG-H a26-3 has 0 carriers
+17,-182,-48,0.1428,Col 285 Sector OK-C b14-0 has 0 carriers
+-45,-3,27,0.0916,Col 285 Sector OK-P a35-0 has 1 carriers
+-44,-4,26,0.1280,Col 285 Sector OK-P a35-1 has 0 carriers
+-45,7,155,0.1452,Col 285 Sector PM-S a47-1 has 7 carriers
+-40,8,164,0.1518,Col 285 Sector PM-S a47-4 has 13 carriers
+-14,102,128,0.2245,Col 285 Sector QE-M b22-5 has 1 carriers
+-11,109,118,0.4526,Col 285 Sector QE-M b22-8 has 0 carriers
+-125,116,-52,0.1440,Col 285 Sector RC-B b14-3 has 14 carriers
+-224,2,-72,0.4910,Col 285 Sector RX-B b13-2 has 1 carriers
+-224,6,-77,0.1934,Col 285 Sector RX-B b13-3 has 1 carriers
+-164,133,69,0.1075,Col 285 Sector TD-Q b19-2 has 1 carriers
+6,-69,163,0.0561,Col 285 Sector TK-E c12-29 has 6 carriers
+1,-76,166,0.0510,Col 285 Sector TK-E c12-33 has 10 carriers
+0,-95,163,0.0602,Col 285 Sector TK-E c12-8 has 1 carriers
+-231,10,-72,0.2781,Col 285 Sector TS-B b13-0 has 1 carriers
+-44,7,166,0.1521,Col 285 Sector TS-Q a48-0 has 4 carriers
+-41,168,84,0.1534,Col 285 Sector TT-H c10-4 has 1 carriers
+-42,17,167,0.1500,Col 285 Sector US-Q a48-3 has 1 carriers
+-210,10,-53,0.4908,Col 285 Sector VD-A b14-0 has 1 carriers
+-209,12,-58,0.4236,Col 285 Sector VD-A b14-1 has 2 carriers
+-215,8,-61,1.6056,Col 285 Sector VD-A b14-2 has 14 carriers
+-156,137,54,0.0801,Col 285 Sector WO-R d4-91 has 1 carriers
+-72,108,124,0.0583,Col 285 Sector WP-L b22-4 has 2 carriers
+-49,4,166,0.1887,Col 285 Sector XG-I b24-6 has 1 carriers
+-147,120,81,0.1750,Col 285 Sector XJ-O b20-2 has 2 carriers
+-153,122,85,0.4356,Col 285 Sector XJ-O b20-4 has 14 carriers
+3,-91,157,0.1196,Col 285 Sector XK-O d6-112 has 15 carriers
+2,-95,146,0.0521,Col 285 Sector XK-O d6-117 has 6 carriers
+96,-228,319,0.1651,Col 359 Sector AE-N b9-0 has 43 carriers
+114,-240,328,0.1287,Col 359 Sector AE-N b9-1 has 8 carriers
+104,-230,318,0.3607,Col 359 Sector AE-N b9-3 has 19 carriers
+103,-225,322,0.2981,Col 359 Sector AE-N b9-4 has 54 carriers
+100,-231,327,0.3985,Col 359 Sector AE-N b9-5 has 39 carriers
+118,-198,327,0.6673,Col 359 Sector AJ-N b9-0 has 20 carriers
+121,-197,328,0.3905,Col 359 Sector AJ-N b9-1 has 8 carriers
+117,-195,325,0.5371,Col 359 Sector AJ-N b9-2 has 10 carriers
+118,-201,325,0.3032,Col 359 Sector AJ-N b9-3 has 117 carriers
+122,-203,331,0.3956,Col 359 Sector AJ-N b9-4 has 17 carriers
+129,-203,334,0.2027,Col 359 Sector AJ-N b9-5 has 6 carriers
+110,-209,326,0.6120,Col 359 Sector BE-N b9-0 has 93 carriers
+110,-210,323,1.2510,Col 359 Sector BE-N b9-1 has 15 carriers
+101,-209,318,0.2999,Col 359 Sector BE-N b9-2 has 63 carriers
+111,-217,315,0.3078,Col 359 Sector BE-N b9-3 has 15 carriers
+100,-214,334,0.4327,Col 359 Sector BE-N b9-4 has 20 carriers
+110,-191,319,0.1795,Col 359 Sector CE-N b9-0 has 8 carriers
+99,-204,332,0.5241,Col 359 Sector CE-N b9-1 has 57 carriers
+105,-202,329,0.7316,Col 359 Sector CE-N b9-2 has 102 carriers
+95,-192,328,0.1301,Col 359 Sector CE-N b9-5 has 2 carriers
+120,-240,348,0.1049,Col 359 Sector CP-L b10-2 has 1 carriers
+119,-236,345,0.2090,Col 359 Sector CP-L b10-3 has 8 carriers
+123,-238,349,0.1057,Col 359 Sector CP-L b10-4 has 1 carriers
+94,-232,322,0.3218,Col 359 Sector CZ-M b9-4 has 5 carriers
+123,-205,345,0.1682,Col 359 Sector DP-L b10-0 has 10 carriers
+117,-205,346,0.1563,Col 359 Sector DP-L b10-1 has 12 carriers
+122,-215,347,0.5140,Col 359 Sector DP-L b10-2 has 2 carriers
+123,-212,344,0.1111,Col 359 Sector DP-L b10-3 has 63 carriers
+89,-217,334,0.1619,Col 359 Sector DZ-M b9-2 has 6 carriers
+113,-239,340,0.1778,Col 359 Sector EK-L b10-2 has 6 carriers
+111,-243,341,0.0865,Col 359 Sector EK-L b10-3 has 2 carriers
+109,-227,346,0.2756,Col 359 Sector EK-L b10-4 has 80 carriers
+106,-234,345,0.2542,Col 359 Sector EK-L b10-5 has 13 carriers
+127,-200,352,0.2715,Col 359 Sector EP-L b10-1 has 1 carriers
+129,-202,338,0.1103,Col 359 Sector EP-L b10-2 has 5 carriers
+122,-201,336,0.2476,Col 359 Sector EP-L b10-3 has 13 carriers
+91,-199,326,0.1128,Col 359 Sector EZ-M b9-0 has 8 carriers
+92,-196,322,0.0537,Col 359 Sector EZ-M b9-1 has 2 carriers
+97,-224,335,0.3044,Col 359 Sector FK-L b10-0 has 61 carriers
+101,-221,340,0.2243,Col 359 Sector FK-L b10-1 has 21 carriers
+98,-223,339,0.4715,Col 359 Sector FK-L b10-2 has 11 carriers
+102,-224,345,0.3644,Col 359 Sector FK-L b10-3 has 13 carriers
+97,-220,340,0.3248,Col 359 Sector FK-L b10-4 has 7 carriers
+96,-222,340,0.1724,Col 359 Sector FK-L b10-5 has 62 carriers
+85,-231,354,0.0775,Col 359 Sector GF-L b10-2 has 5 carriers
+94,-231,337,0.4263,Col 359 Sector GF-L b10-6 has 7 carriers
+105,-193,347,0.0506,Col 359 Sector GK-L b10-0 has 1 carriers
+104,-198,345,0.0994,Col 359 Sector GK-L b10-1 has 3 carriers
+87,-199,338,0.0780,Col 359 Sector IF-L b10-3 has 6 carriers
+124,-227,311,0.0770,Col 359 Sector JW-V d2-25 has 14 carriers
+106,-239,343,0.1272,Col 359 Sector JW-V d2-28 has 5 carriers
+95,-209,324,0.2514,Col 359 Sector KW-V d2-16 has 14 carriers
+109,-223,325,0.4521,Col 359 Sector KW-V d2-17 has 12 carriers
+117,-190,333,0.3069,Col 359 Sector KW-V d2-19 has 1 carriers
+105,-208,339,0.4659,Col 359 Sector KW-V d2-20 has 29 carriers
+104,-199,334,0.9595,Col 359 Sector KW-V d2-79 has 27 carriers
+100,-200,328,0.7794,Col 359 Sector KW-V d2-80 has 17 carriers
+101,-218,354,0.1573,Col 359 Sector KW-V d2-87 has 5 carriers
+107,-212,304,0.0601,Col 359 Sector KW-V d2-95 has 1 carriers
+106,-211,307,0.0678,Col 359 Sector KW-V d2-96 has 12 carriers
+135,-213,330,0.0971,Col 359 Sector LW-T c4-2 has 5 carriers
+95,-237,327,0.1602,Col 359 Sector MR-T c4-10 has 5 carriers
+113,-227,316,0.1824,Col 359 Sector MR-T c4-8 has 15 carriers
+112,-205,310,0.1804,Col 359 Sector NR-T c4-0 has 9 carriers
+128,-197,332,0.1805,Col 359 Sector NR-T c4-10 has 5 carriers
+111,-214,327,1.0263,Col 359 Sector NR-T c4-13 has 15 carriers
+112,-220,328,0.1458,Col 359 Sector NR-T c4-14 has 31 carriers
+117,-205,318,0.5682,Col 359 Sector NR-T c4-15 has 30 carriers
+121,-201,322,0.7427,Col 359 Sector NR-T c4-16 has 10 carriers
+120,-209,320,0.6815,Col 359 Sector NR-T c4-17 has 18 carriers
+103,-220,308,0.1387,Col 359 Sector NR-T c4-18 has 10 carriers
+114,-214,300,0.0553,Col 359 Sector NR-T c4-6 has 6 carriers
+116,-215,304,0.0870,Col 359 Sector NR-T c4-7 has 13 carriers
+135,-204,330,0.1101,Col 359 Sector NR-T c4-8 has 2 carriers
+130,-200,333,0.1544,Col 359 Sector NR-T c4-9 has 4 carriers
+92,-205,334,0.2074,Col 359 Sector PM-T c4-2 has 11 carriers
+92,-210,329,0.1633,Col 359 Sector PM-T c4-3 has 1 carriers
+126,-241,338,0.1099,Col 359 Sector QX-R c5-0 has 2 carriers
+113,-233,339,0.3861,Col 359 Sector QX-R c5-10 has 30 carriers
+118,-232,336,0.6024,Col 359 Sector QX-R c5-11 has 52 carriers
+118,-230,339,0.4467,Col 359 Sector QX-R c5-12 has 79 carriers
+122,-231,341,0.6029,Col 359 Sector QX-R c5-13 has 16 carriers
+122,-229,345,0.4627,Col 359 Sector QX-R c5-14 has 7 carriers
+117,-229,352,0.3375,Col 359 Sector QX-R c5-6 has 3 carriers
+114,-228,347,0.5138,Col 359 Sector QX-R c5-7 has 13 carriers
+115,-228,342,0.4386,Col 359 Sector QX-R c5-8 has 61 carriers
+113,-237,343,0.2181,Col 359 Sector QX-R c5-9 has 1 carriers
+100,-221,340,0.3040,Col 359 Sector RX-R c5-0 has 11 carriers
+97,-217,343,0.2138,Col 359 Sector RX-R c5-1 has 7 carriers
+119,-219,351,0.5211,Col 359 Sector RX-R c5-11 has 5 carriers
+113,-217,342,0.6525,Col 359 Sector RX-R c5-15 has 12 carriers
+118,-220,339,0.6108,Col 359 Sector RX-R c5-16 has 77 carriers
+116,-225,341,0.7611,Col 359 Sector RX-R c5-17 has 14 carriers
+102,-219,342,0.3181,Col 359 Sector RX-R c5-2 has 7 carriers
+102,-221,337,0.3168,Col 359 Sector RX-R c5-3 has 20 carriers
+96,-224,338,0.3965,Col 359 Sector RX-R c5-4 has 35 carriers
+81,-236,355,0.0539,Col 359 Sector SS-R c5-7 has 7 carriers
+84,-237,350,0.0847,Col 359 Sector SS-R c5-9 has 8 carriers
+93,-219,340,0.2240,Col 359 Sector TS-R c5-7 has 9 carriers
+121,-216,302,0.0517,Col 359 Sector VC-P b8-3 has 7 carriers
+114,-218,303,0.1231,Col 359 Sector XX-O b8-1 has 4 carriers
+110,-215,305,0.0734,Col 359 Sector XX-O b8-2 has 11 carriers
+115,-217,306,0.0514,Col 359 Sector XX-O b8-3 has 34 carriers
+97,-218,313,0.1389,Col 359 Sector XX-O b8-4 has 6 carriers
+121,-228,325,0.4965,Col 359 Sector YI-N b9-4 has 15 carriers
+127,-226,332,0.6694,Col 359 Sector YI-N b9-5 has 49 carriers
+132,-215,333,0.2883,Col 359 Sector ZI-N b9-0 has 11 carriers
+126,-205,329,0.1940,Col 359 Sector ZI-N b9-1 has 48 carriers
+123,-208,322,0.5721,Col 359 Sector ZI-N b9-2 has 24 carriers
+124,-224,318,0.1694,Col 359 Sector ZI-N b9-3 has 16 carriers
+44,94,71,0.0742,Colando Po has 2 carriers
+-6,41,13,0.0648,Convoumia has 2 carriers
+-10,159,-51,0.0860,Cordenses has 1 carriers
+-34,-13,16,0.0927,Core Sys Sector CB-O a6-0 has 2 carriers
+-28,-7,21,0.0782,Core Sys Sector CB-O a6-1 has 1 carriers
+-32,-8,23,0.1320,Core Sys Sector CB-O a6-4 has 1 carriers
+-34,-3,17,0.1201,Core Sys Sector DB-O a6-0 has 1 carriers
+-40,-11,22,0.4219,Core Sys Sector EW-N a6-1 has 4 carriers
+-43,-4,18,0.2370,Core Sys Sector FW-N a6-0 has 1 carriers
+-40,-5,15,0.1554,Core Sys Sector FW-N a6-2 has 7 carriers
+-34,-6,28,0.0764,Core Sys Sector GH-M a7-1 has 6 carriers
+-34,-3,28,0.0755,Core Sys Sector HH-M a7-1 has 1 carriers
+2,37,28,0.0942,Core Sys Sector PN-T b3-3 has 2 carriers
+-38,-16,11,0.0721,Core Sys Sector ZP-P a5-0 has 2 carriers
+-27,66,68,0.0540,Corngari has 3 carriers
+7,76,16,0.0871,CPD-51 3323 has 11 carriers
+36,63,23,0.2242,Crucis Sector AL-X b1-5 has 5 carriers
+11,39,38,0.1110,Crucis Sector CL-Y c20 has 3 carriers
+4,49,35,0.3168,Crucis Sector CL-Y c33 has 3 carriers
+7,50,27,0.9724,Crucis Sector DB-X b1-6 has 16 carriers
+9,74,20,0.2229,Crucis Sector DL-Y c29 has 1 carriers
+1,68,24,0.0850,Crucis Sector EB-X b1-2 has 2 carriers
+0,67,27,0.0780,Crucis Sector EB-X b1-6 has 2 carriers
+45,59,35,0.1206,Crucis Sector ER-V b2-2 has 1 carriers
+43,58,38,0.1255,Crucis Sector ER-V b2-5 has 1 carriers
+22,54,42,0.9690,Crucis Sector FM-V b2-1 has 1 carriers
+18,46,35,0.8289,Crucis Sector FM-V b2-4 has 93 carriers
+27,67,64,0.0617,Crucis Sector FW-W c1-25 has 0 carriers
+22,69,43,0.1080,Crucis Sector GM-V b2-2 has 2 carriers
+57,80,59,0.0893,Crucis Sector HC-U b3-5 has 1 carriers
+11,42,43,0.1065,Crucis Sector HH-V b2-6 has 4 carriers
+8,45,46,0.1077,Crucis Sector HH-V b2-7 has 2 carriers
+18,77,40,0.0632,Crucis Sector HM-V b2-0 has 1 carriers
+-1,63,36,0.2557,Crucis Sector IH-V b2-4 has 7 carriers
+45,69,72,0.4393,Crucis Sector IX-T b3-5 has 1 carriers
+43,76,62,0.2848,Crucis Sector JX-T b3-3 has 1 carriers
+51,77,79,0.2482,Crucis Sector ND-S b4-1 has 13 carriers
+49,84,76,0.3185,Crucis Sector ND-S b4-3 has 10 carriers
+54,79,80,0.2774,Crucis Sector ND-S b4-5 has 2 carriers
+32,83,78,0.0717,Crucis Sector PY-R b4-5 has 1 carriers
+7,70,42,0.2536,Crucis Sector YE-A d96 has 3 carriers
+-156,128,84,0.0623,Cubeo has 109 carriers
+-100,-41,121,0.1167,Cuberara has 5 carriers
+81,44,17,0.1433,Cupinook has 8 carriers
+38,41,20,0.0540,Czernovale has 1 carriers
+42,-20,-3,0.0803,Dahan has 7 carriers
+0,-41,163,0.0603,Dalang has 0 carriers
+-1,123,-47,0.1239,Deciat has 122 carriers
+33,68,35,0.1103,Delkar has 114 carriers
+-2,16,-3,0.1190,DEN 0255-4700 has 1 carriers
+4,12,2,0.1347,DEN 1048-3956 has 5 carriers
+-28,-16,21,0.0691,Deneb Algedi has 1 carriers
+28,69,45,0.1192,Dhathaarib has 1 carriers
+49,72,71,0.3117,Diso has 106 carriers
+-89,97,66,0.0836,Ditian has 1 carriers
+-61,-63,111,0.1385,Djirbalngan has 2 carriers
+0,120,-41,0.2086,Djiwal has 35 carriers
+-127,33,-42,0.0545,Domoth has 2 carriers
+69,-39,-13,0.0774,Doris has 3 carriers
+-156,108,79,0.7539,Dounthiassi has 1 carriers
+26,-18,-11,0.1539,DP Draconis has 3 carriers
+7,2,-7,0.1586,Duamta has 1 carriers
+5,-16,53,0.0504,Dumnona has 2 carriers
+30,-96,20,1.0933,Duwali has 4 carriers
+-161,115,76,0.1333,Ehlanda has 81 carriers
+10,6,-12,0.0721,EI Cancri has 5 carriers
+-35,-12,-37,0.0750,Ekhi has 2 carriers
+-1,60,-6,0.0739,Elli has 1 carriers
+-8,2,-7,0.1807,Epsilon Eridani has 23 carriers
+-9,3,7,0.1807,Epsilon Indi has 30 carriers
+-13,-15,-3,0.1450,EQ Pegasi has 7 carriers
+13,37,28,0.4087,ER 8 has 29 carriers
+37,-23,-1,0.0513,Eranin has 5 carriers
+22,67,27,0.9921,Eravarenth has 32 carriers
+-2,-16,-11,0.0994,Eta Cassiopeiae has 14 carriers
+-3,57,31,0.1910,Eta Crucis has 15 carriers
+72,-30,-24,0.0677,Ethgreze has 10 carriers
+-4,-16,-3,0.2762,EV Lacertae has 1 carriers
+-9,-4,4,0.3155,EZ Aquarii has 25 carriers
+72,-37,-18,0.1727,Faceze has 2 carriers
+25,52,6,0.0889,Faisel C has 9 carriers
+46,58,81,0.0652,Flechti has 3 carriers
+10,58,36,0.5235,Fong Wang has 120 carriers
+-24,-26,-17,0.0515,FT Piscium has 1 carriers
+-119,75,46,0.1303,Futhark has 2 carriers
+67,-19,-15,0.1365,G 123-49 has 2 carriers
+26,-23,-7,0.0771,G 239-25 has 1 carriers
+8,8,-9,0.0909,G 41-14 has 9 carriers
+5,10,-17,0.0605,G 89-32 has 5 carriers
+-3,7,-16,0.0587,G 99-49 has 3 carriers
+-12,13,124,0.0787,G Scorpii has 11 carriers
+39,-98,37,1.0933,Gabjaujavas has 3 carriers
+43,-58,98,0.7987,Gali has 64 carriers
+62,65,130,0.0937,Gandagetu has 0 carriers
+-87,-57,-32,0.0737,GCRV 375 has 11 carriers
+10,12,-6,0.0753,Gendalla has 14 carriers
+-39,-7,20,0.3538,Gliese 868 has 116 carriers
+-160,15,-5,0.0559,Gliese 9043 has 1 carriers
+10,115,-41,0.0789,Gliese 9263 has 2 carriers
+15,81,28,0.0543,Gluscap has 3 carriers
+9,41,30,0.4287,Gnowee has 19 carriers
+-4,-10,-5,0.2474,Groombridge 34 has 13 carriers
+-43,-14,8,0.0796,Gun has 1 carriers
+14,-8,64,0.0925,Gunnovale has 2 carriers
+53,70,81,0.2459,Gurney Slade has 11 carriers
+54,60,74,0.1067,Hajanheimr has 1 carriers
+7,-19,56,0.0583,Hanggardi has 0 carriers
+-20,-112,-43,0.0527,Havanth has 1 carriers
+59,69,85,0.0550,HD 122510 has 6 carriers
+69,-38,-17,0.0963,HDS 1879 has 2 carriers
+69,-34,-15,0.1092,He Bo has 11 carriers
+53,73,89,0.0670,He Pora has 8 carriers
+46,68,68,0.4262,Heheng has 6 carriers
+42,32,-11,0.0731,Helios has 1 carriers
+-153,120,73,0.4854,Hernovacle has 12 carriers
+26,70,17,0.1624,Heveri has 35 carriers
+-72,-48,114,0.1306,HIP 100568 has 12 carriers
+-74,-39,101,0.0866,HIP 102018 has 1 carriers
+-76,-51,92,0.1965,HIP 103138 has 0 carriers
+-107,-48,113,0.1372,HIP 104504 has 9 carriers
+-146,39,117,0.1071,HIP 108729 has 5 carriers
+-183,-2,63,0.1665,HIP 115888 has 1 carriers
+-217,-2,48,0.0527,HIP 118127 has 7 carriers
+20,-344,-340,0.1302,HIP 11879 has 1 carriers
+-128,36,-51,0.1188,HIP 12779 has 1 carriers
+-131,35,-54,0.1402,HIP 12797 has 3 carriers
+-121,29,-54,0.1017,HIP 12837 has 2 carriers
+-55,-48,-99,0.1374,HIP 13644 has 13 carriers
+-70,-42,-111,0.1066,HIP 14211 has 0 carriers
+-55,-40,-108,0.1927,HIP 15300 has 1 carriers
+-70,-26,-112,0.0997,HIP 15724 has 1 carriers
+-187,-64,-325,0.0787,HIP 16613 has 11 carriers
+-147,-86,-322,0.0732,HIP 16996 has 11 carriers
+-103,79,-24,0.0871,HIP 17298 has 11 carriers
+-150,-59,-306,0.2868,HIP 17481 has 1 carriers
+-144,-74,-329,0.1367,HIP 17692 has 9 carriers
+-153,-72,-339,0.1266,HIP 17694 has 4 carriers
+-110,44,-101,0.0937,HIP 18085 has 12 carriers
+-96,106,0,0.0719,HIP 20277 has 27 carriers
+-156,133,89,0.3962,HIP 3254 has 16 carriers
+30,136,-130,0.2733,HIP 37879 has 4 carriers
+-9,127,-46,0.2120,HIP 38236 has 1 carriers
+32,123,-40,0.6312,HIP 44291 has 3 carriers
+33,117,-37,0.7764,HIP 44785 has 2 carriers
+33,121,-32,0.4086,HIP 45301 has 5 carriers
+92,63,-72,0.2107,HIP 47468 has 3 carriers
+-54,174,84,0.2458,HIP 52461 has 1 carriers
+300,21,-153,0.9892,HIP 52675 has 39 carriers
+92,112,-12,0.0650,HIP 52780 has 10 carriers
+-44,174,88,0.2039,HIP 55237 has 7 carriers
+-145,131,78,0.1078,HIP 5623 has 6 carriers
+-145,133,79,0.0967,HIP 5700 has 7 carriers
+255,1,-42,0.9892,HIP 59425 has 39 carriers
+-156,119,62,0.1751,HIP 6703 has 2 carriers
+143,14,52,0.0527,HIP 67120 has 1 carriers
+-208,-8,-60,0.1665,HIP 7821 has 1 carriers
+-212,3,-56,0.7625,HIP 8060 has 16 carriers
+39,-62,109,0.5196,HIP 86644 has 1 carriers
+112,-220,329,0.5581,HIP 87621 has 0 carriers
+-15,-27,144,0.0787,HIP 90451 has 1 carriers
+8,-82,161,0.0557,HIP 90578 has 46 carriers
+-35,7,158,0.0637,HIP 90590 has 1 carriers
+1,-78,150,0.0520,HIP 91337 has 4 carriers
+-216,18,-64,0.7343,HIP 9249 has 7 carriers
+-100,122,-15,0.0685,Hisaaka has 1 carriers
+-126,100,-46,0.1323,Hollobrigo has 7 carriers
+11,76,38,0.1052,Honoto has 1 carriers
+-108,106,-25,0.0945,Hou Mayo has 1 carriers
+-145,-73,-337,0.1003,HR 1183 has 28 carriers
+20,74,41,0.0589,HR 4734 has 12 carriers
+28,76,44,0.0766,HR 4788 has 1 carriers
+28,48,38,0.3689,HR 4979 has 20 carriers
+51,-89,39,0.0981,HR 6669 has 1 carriers
+-115,29,-52,0.0640,HR 827 has 5 carriers
+-8,-22,16,0.0673,HU Delphinus has 7 carriers
+-99,-43,115,0.1797,Huan Guang has 2 carriers
+5,-15,76,0.1362,Hun Ahayuse has 1 carriers
+59,76,60,0.0746,Hun Nal Yeh has 2 carriers
+42,-63,101,0.5330,Hun Ti has 6 carriers
+-1,-104,-157,0.2333,Hyades Sector CB-X d1-113 has 1 carriers
+0,102,-162,1.6259,Hyades Sector QI-R b5-6 has 2 carriers
+-60,51,-33,0.1088,Hyades Sector RE-G b11-5 has 1 carriers
+-149,29,-83,0.1275,Hyades Sector ST-I b9-0 has 1 carriers
+72,81,26,0.0753,Hydrae Sector DQ-Y b4 has 1 carriers
+50,74,91,0.0691,Hydrae Sector JM-W c1-20 has 0 carriers
+62,83,74,0.0586,Hydrae Sector LC-V b2-1 has 1 carriers
+131,80,32,0.0650,Hydrae Sector XE-Z b3 has 1 carriers
+-8,453,132,0.0527,IC 2602 Sector ZU-Y d103 has 9 carriers
+-164,9,-7,0.0737,ICZ AV-Y b1 has 2 carriers
+-102,100,-4,0.1266,ICZ DQ-X b1-6 has 3 carriers
+-173,18,-1,0.2019,ICZ EL-Y c14 has 1 carriers
+-125,96,-6,0.1008,ICZ EQ-Y c6 has 1 carriers
+-117,72,30,0.1384,ICZ HR-V b2-1 has 1 carriers
+-177,21,-1,0.0944,ICZ HW-W b1-4 has 1 carriers
+-13,-6,5,0.2868,IL Aquarii has 4 carriers
+6,-44,111,0.0527,Imhotian has 9 carriers
+40,-94,-86,0.2062,Inara has 5 carriers
+25,41,34,0.2408,Iota Centauri has 16 carriers
+-97,141,68,0.0610,Irukama has 1 carriers
+77,-141,-20,0.0792,Iverni has 11 carriers
+7,74,30,0.2022,Jinoharis has 4 carriers
+67,-18,-22,0.0576,Kaal has 2 carriers
+-100,110,-13,0.0541,Kamadhenu has 67 carriers
+-37,10,149,0.0551,Kappa-1 Coronae Austrinae has 13 carriers
+-7,10,-3,0.1487,Kapteyn.s Star has 5 carriers
+25,68,25,0.5278,Katta has 49 carriers
+-75,-62,112,0.0904,Kaurna has 4 carriers
+-13,95,126,0.1002,Khan Gubii has 2 carriers
+71,-36,-8,0.0755,Khernidjal has 7 carriers
+-178,14,2,0.1363,Kholhou has 2 carriers
+-3,-47,60,0.0789,Kini has 1 carriers
+30,48,41,0.1798,Kipsigines has 1 carriers
+75,38,164,1.4367,Klikis has 47 carriers
+-10,4,-11,0.0914,Kokary has 29 carriers
+31,70,44,0.0948,Komovoy has 11 carriers
+-11,-37,59,0.0544,Kremainn has 9 carriers
+-2,114,-55,0.3744,Kremata has 4 carriers
+0,-13,-3,0.1193,Kruger 60 has 124 carriers
+6,39,29,0.1277,Kunggi has 3 carriers
+6,76,21,0.0575,Kwazahui has 10 carriers
+6,34,29,0.1007,L 258-146 has 3 carriers
+-12,2,11,0.1051,La Rochelle has 2 carriers
+-9,-1,9,0.2093,Lacaille 8760 has 4 carriers
+-10,0,4,0.1912,Lacaille 9352 has 24 carriers
+-58,-29,-24,0.0677,Lalande 1799 has 19 carriers
+14,-4,-14,0.0601,Lalande 18115 has 5 carriers
+8,0,-3,0.1849,Lalande 21185 has 12 carriers
+-59,-44,-108,0.2267,Lalande 5761 has 5 carriers
+-37,6,-34,0.0886,Lalande 6320 has 7 carriers
+-153,117,74,0.0569,Lambda-1 Tucanae has 58 carriers
+-165,126,79,1.1501,Lambda-2 Tucanae has 5 carriers
+0,125,-61,0.7088,Lanciansene has 2 carriers
+27,77,33,0.1469,Lapannodaya has 2 carriers
+43,66,52,0.0525,Larais has 3 carriers
+49,76,71,0.4944,Lave has 42 carriers
+-73,-16,-12,0.1176,LAWD 7 has 14 carriers
+32,54,31,0.2366,LDS 413 has 22 carriers
+49,73,68,0.2722,Leesti has 116 carriers
+-64,-43,-78,0.0864,Lembava has 64 carriers
+-65,-58,108,0.2972,Lenca has 1 carriers
+10,-9,67,0.1155,Lencali has 16 carriers
+-33,12,-33,0.1449,Leuctra has 1 carriers
+10,40,37,0.1707,LFT 1046 has 2 carriers
+-53,-7,-21,0.0753,LFT 163 has 7 carriers
+-49,-10,17,0.1695,LFT 1765 has 2 carriers
+24,-18,-23,0.0737,LFT 671 has 1 carriers
+34,46,10,0.1158,LFT 824 has 3 carriers
+31,-23,-18,0.0664,LFT 880 has 1 carriers
+18,51,30,1.4989,LFT 926 has 109 carriers
+-1,46,31,0.1020,LFT 963 has 2 carriers
+-62,-18,0,0.1129,LHS 1044 has 21 carriers
+-16,-4,0,0.0949,LHS 1047 has 10 carriers
+-20,-32,-15,0.1175,LHS 112 has 1 carriers
+-49,-19,-7,0.0540,LHS 113 has 2 carriers
+-61,-29,-18,0.1890,LHS 1141 has 7 carriers
+-69,-10,-17,0.0948,LHS 1228 has 25 carriers
+-77,-26,-30,0.0555,LHS 1230 has 4 carriers
+-57,-18,-28,0.0706,LHS 1272 has 6 carriers
+-45,-9,-29,0.0596,LHS 1358 has 42 carriers
+-37,3,-37,0.0717,LHS 1547 has 8 carriers
+-36,11,-33,0.6055,LHS 1582 has 2 carriers
+-9,8,-16,0.0712,LHS 1723 has 2 carriers
+-6,13,-12,0.0641,LHS 1827 has 5 carriers
+-21,6,-22,0.0544,LHS 183 has 1 carriers
+-14,-6,0,0.1092,LHS 2 has 3 carriers
+13,-21,-18,0.0837,LHS 215 has 6 carriers
+5,7,-24,0.0565,LHS 223 has 2 carriers
+22,58,20,1.4009,LHS 2435 has 16 carriers
+12,36,14,0.0559,LHS 2441 has 1 carriers
+11,-11,-8,0.0988,LHS 2459 has 2 carriers
+31,68,27,0.5704,LHS 2477 has 2 carriers
+36,75,33,0.2013,LHS 2509 has 4 carriers
+13,40,21,0.6734,LHS 2552 has 23 carriers
+21,-18,-24,0.0801,LHS 256 has 1 carriers
+75,-23,-16,0.1009,LHS 2637 has 10 carriers
+9,48,43,0.2957,LHS 2813 has 10 carriers
+10,11,-2,0.1182,LHS 292 has 1 carriers
+27,45,15,0.1717,LHS 317 has 74 carriers
+8,-11,62,0.0990,LHS 3316 has 4 carriers
+6,43,25,0.2573,LHS 332 has 2 carriers
+0,-20,62,0.1044,LHS 3384 has 7 carriers
+20,39,29,0.4931,LHS 346 has 40 carriers
+-11,1,17,0.0540,LHS 3531 has 3 carriers
+4,-22,-4,0.0580,LHS 3595 has 2 carriers
+-25,-60,34,0.0595,LHS 3598 has 2 carriers
+-31,-15,21,0.0763,LHS 3744 has 3 carriers
+7,5,11,0.1258,LHS 380 has 5 carriers
+-11,-23,-7,0.0649,LHS 4003 has 1 carriers
+-59,-19,6,0.0837,LHS 4032 has 12 carriers
+-55,-25,0,0.0637,LHS 4047 has 27 carriers
+-2,4,14,0.1011,LHS 449 has 14 carriers
+8,-12,-2,0.1263,LHS 450 has 1 carriers
+-2,4,16,0.1017,LHS 451 has 5 carriers
+10,-17,-3,0.0510,LHS 455 has 2 carriers
+-38,0,13,0.1001,LHS 547 has 3 carriers
+-1,-20,-7,0.1038,LHS 71 has 5 carriers
+29,69,17,0.3305,Logoni has 4 carriers
+1,-25,-21,0.5470,Lorana has 1 carriers
+-30,1,-36,0.0540,Losin has 1 carriers
+64,-25,-18,0.0522,LP 131-55 has 1 carriers
+72,-32,-21,0.0868,LP 131-66 has 10 carriers
+-64,-33,-79,0.3032,LP 410-81 has 3 carriers
+48,19,-3,0.0567,LP 493-64 has 1 carriers
+-5,10,-18,0.0609,LP 658-2 has 5 carriers
+-55,-19,4,0.0847,LP 704-15 has 2 carriers
+-78,-17,-14,0.0990,LP 706-69 has 6 carriers
+24,57,-38,0.0881,LP 726-6 has 14 carriers
+-9,-23,56,0.0584,LP 751-1 has 7 carriers
+-7,-24,68,0.0686,LP 751-15 has 1 carriers
+-11,-8,13,0.1111,LP 816-60 has 9 carriers
+6,-1,61,0.0515,LP 864-1 has 0 carriers
+26,43,7,0.1358,LP 906-9 has 10 carriers
+25,43,17,0.5981,LP 908-11 has 58 carriers
+-40,-8,21,0.3689,LP 932-12 has 119 carriers
+-13,8,-5,0.1302,LP 944-020 has 3 carriers
+-64,46,-28,0.1483,LPM 173 has 3 carriers
+29,48,-22,0.0754,LQ Hydrae has 5 carriers
+-59,-29,-23,0.1591,LTT 10380 has 5 carriers
+66,-38,-13,0.0593,LTT 14019 has 1 carriers
+-71,-26,-5,0.1210,LTT 149 has 9 carriers
+-12,-45,56,0.0541,LTT 18486 has 1 carriers
+17,50,6,0.1464,LTT 3919 has 5 carriers
+29,49,8,0.1416,LTT 4170 has 11 carriers
+29,47,15,0.5326,LTT 4379 has 7 carriers
+15,75,33,0.0901,LTT 4428 has 84 carriers
+30,63,27,0.5046,LTT 4487 has 16 carriers
+27,71,32,0.3477,LTT 4497 has 6 carriers
+-72,-25,-16,0.1046,LTT 453 has 9 carriers
+63,51,27,0.1402,LTT 4772 has 3 carriers
+60,79,64,0.1728,LTT 5058 has 1 carriers
+26,39,32,0.2153,LTT 5131 has 7 carriers
+13,54,44,0.4008,LTT 5212 has 76 carriers
+17,-13,64,0.1099,LTT 6883 has 1 carriers
+15,-24,74,0.0561,LTT 7069 has 1 carriers
+-63,-36,2,0.0524,LTT 9665 has 5 carriers
+6,50,4,0.1987,LU Velorum has 6 carriers
+1,6,2,0.3312,Luhman 16 has 24 carriers
+-7,4,-14,0.0904,Lung has 11 carriers
+-1,13,6,0.0645,Luyten 143-23 has 3 carriers
+-1,13,7,0.0541,Luyten 145-141 has 6 carriers
+2,17,-9,0.0550,Luyten 674-15 has 10 carriers
+2,7,-10,0.1314,Luyten.s Star has 82 carriers
+-149,-82,-343,0.1527,Maia has 4 carriers
+7,-13,78,0.0873,Maijarua has 6 carriers
+-220,10,-64,0.8474,Mainani has 124 carriers
+0,113,-46,0.2969,Malayamatha has 8 carriers
+-52,-13,-22,0.0581,Mammentum has 22 carriers
+-107,62,-24,0.0519,Manianscudo has 10 carriers
+-12,22,28,0.0613,Mari has 3 carriers
+20,65,-41,0.0568,Masans has 1 carriers
+0,39,17,0.0549,Mata has 3 carriers
+-72,-14,-28,0.0657,Mazu has 26 carriers
+21,80,24,0.1500,Mbambiva has 4 carriers
+-128,28,-49,0.1205,Mbutas has 62 carriers
+-31,-50,-98,0.6535,MCC 418 has 1 carriers
+-70,-44,99,0.0901,Medzistha has 45 carriers
+70,-30,-27,0.0615,Megrez has 3 carriers
+24,35,41,0.0654,Menkent has 1 carriers
+-150,-79,-341,0.0814,Merope has 46 carriers
+-56,-34,-90,0.0824,MET 20 has 2 carriers
+-94,49,2,0.0703,Mictlan has 3 carriers
+1,14,-3,0.1176,Mildeptu has 12 carriers
+-65,-22,-15,0.0651,Minerva has 76 carriers
+-4,15,2,0.0676,Ministry has 7 carriers
+75,-144,-20,0.1624,Mising has 6 carriers
+-73,-47,-98,0.0705,Mitnahas has 27 carriers
+73,-36,-15,0.3328,Mizar has 22 carriers
+14,58,1,0.0998,Momoirent has 18 carriers
+40,-15,-2,0.1039,Morgor has 1 carriers
+27,-18,-6,0.0787,Nang Ta-khian has 7 carriers
+-81,-63,-23,0.0559,Narri has 4 carriers
+-81,144,-57,0.0561,Nawait has 1 carriers
+-55,108,-93,0.1711,Ndoyerunga has 1 carriers
+51,78,80,0.2387,Neganhot has 11 carriers
+-116,82,37,0.0988,Nehet has 5 carriers
+6,47,-134,0.0629,New Chana has 1 carriers
+-90,62,-13,0.0613,Ngaiawang has 1 carriers
+-220,9,-61,1.1526,Ngalinn has 119 carriers
+51,72,120,0.0937,Ngandins has 1 carriers
+-124,-8,-164,2.4200,Ngobe has 61 carriers
+-52,52,-30,0.1891,Ninabin has 1 carriers
+-62,93,-127,0.1309,Njorog has 2 carriers
+-41,-21,17,0.0600,Njuwai has 1 carriers
+29,31,11,0.1177,NN 3709 has 1 carriers
+8,-17,61,0.1073,Noatiaca has 10 carriers
+3,48,35,0.1784,Nortia has 7 carriers
+18,48,28,1.6170,Nuenets has 109 carriers
+-69,-29,-12,0.0893,Nyx has 28 carriers
+-128,97,81,0.0519,Okua.gsa has 1 carriers
+81,47,-8,0.1489,Olker has 3 carriers
+-10,5,-12,0.1382,Omicron-2 Eridani has 1 carriers
+49,74,65,0.4712,Orerve has 5 carriers
+21,59,-38,0.0971,Orishpucho has 13 carriers
+49,69,77,0.2205,Orrere has 65 carriers
+26,74,14,0.1155,Paitina has 5 carriers
+43,-59,98,0.7391,Palee has 67 carriers
+-119,124,58,0.0837,Pangilagara has 3 carriers
+31,66,39,0.2885,Panopi has 7 carriers
+80,-58,-31,0.0989,Param has 1 carriers
+129,58,30,0.0636,Pareda has 1 carriers
+-120,-103,-53,0.0527,Pegasi Sector NM-V b2-1 has 0 carriers
+-99,-162,25,0.1665,Pegasi Sector YP-O b6-2 has 1 carriers
+33,69,41,0.2115,Pemoeri has 8 carriers
+-22,-70,63,0.0908,Pices has 2 carriers
+78,-35,-9,0.1267,Pie has 1 carriers
+8,-17,59,0.0858,Pienate has 2 carriers
+-63,-39,-75,0.0753,Pikum has 26 carriers
+-63,-42,-72,0.0919,Piscium Sector BV-Y b3 has 1 carriers
+-62,-28,-85,0.1918,Piscium Sector BV-Y b5 has 1 carriers
+-90,-57,-34,0.1741,Piscium Sector DL-Y c21 has 2 carriers
+-74,-26,-11,0.0941,Piscium Sector DL-Y d118 has 8 carriers
+-70,-38,-80,0.2027,Piscium Sector DQ-Y b4 has 1 carriers
+-73,-27,-28,0.0504,Piscium Sector LC-V b2-2 has 5 carriers
+-70,-35,-17,0.0776,Piscium Sector PI-T b3-3 has 2 carriers
+-70,-34,-22,0.0779,Piscium Sector PI-T b3-4 has 5 carriers
+-75,-15,-19,0.1498,Piscium Sector QI-T b3-5 has 4 carriers
+-70,-16,-17,0.1770,Piscium Sector QI-T b3-6 has 5 carriers
+-72,-70,16,0.1473,Piscium Sector VU-P b5-6 has 1 carriers
+-45,-43,-83,0.0742,Piscium Sector WO-Z a3 has 1 carriers
+-60,-34,-86,0.2597,Piscium Sector XO-A b3 has 5 carriers
+-46,-37,-86,0.0585,Piscium Sector XO-A b5 has 1 carriers
+-71,-47,-85,0.1075,Piscium Sector YJ-A b2 has 1 carriers
+49,58,70,0.1164,Placet has 14 carriers
+-157,-80,-352,0.0577,Pleiades Sector DL-Y d67 has 4 carriers
+-143,-85,-350,0.0687,Pleiades Sector EB-X c1-15 has 1 carriers
+-151,-68,-333,0.1143,Pleiades Sector HR-W d1-36 has 1 carriers
+-146,-84,-334,0.1371,Pleiades Sector HR-W d1-41 has 36 carriers
+-150,-70,-344,0.0919,Pleiades Sector HR-W d1-42 has 5 carriers
+-145,-85,-339,0.1990,Pleiades Sector HR-W d1-65 has 4 carriers
+-147,-81,-343,0.1320,Pleiades Sector HR-W d1-79 has 8 carriers
+-144,-92,-341,0.1774,Pleiades Sector IH-V c2-16 has 3 carriers
+-142,-78,-325,0.0885,Pleiades Sector IH-V c2-6 has 2 carriers
+-145,-78,-325,0.0704,Pleiades Sector IH-V c2-7 has 6 carriers
+-145,-76,-324,0.0862,Pleiades Sector IH-V c2-8 has 4 carriers
+-148,-62,-339,0.0597,Pleiades Sector LC-V c2-1 has 2 carriers
+-138,-103,-340,0.2537,Pleiades Sector MI-S b4-1 has 0 carriers
+-157,-81,-337,0.1551,Pleiades Sector PD-S b4-0 has 2 carriers
+-152,-76,-336,0.1362,Pleiades Sector PD-S b4-2 has 3 carriers
+3,6,-9,0.1955,Procyon has 53 carriers
+9,61,-3,0.3605,Psi Velorum has 2 carriers
+-49,10,167,0.1205,Puneith has 19 carriers
+22,57,-33,0.3914,Puppis Sector FB-X b1-2 has 1 carriers
+22,71,13,0.2976,Puppis Sector NN-T b3-4 has 5 carriers
+12,53,10,0.5680,Puppis Sector OI-T b3-6 has 13 carriers
+11,56,-2,0.1059,Puppis Sector PI-T b3-5 has 1 carriers
+15,66,15,0.6970,Puppis Sector TO-R b4-3 has 21 carriers
+10,59,18,0.7257,Puppis Sector TO-R b4-4 has 44 carriers
+8,58,18,1.0382,Puppis Sector TO-R b4-5 has 16 carriers
+-153,116,75,0.7324,Purungurawn has 1 carriers
+-19,-18,62,0.0684,Qa.wakana has 8 carriers
+48,72,65,0.4162,Quator has 7 carriers
+33,72,63,0.0913,Qube has 4 carriers
+54,62,71,0.2197,Qucerere has 3 carriers
+7,0,-19,0.0527,QY Aurigae has 2 carriers
+-34,7,-39,0.0761,RBS 742 has 1 carriers
+-169,137,68,0.0521,Reddis has 5 carriers
+49,76,75,0.4088,Reorte has 27 carriers
+-66,-31,-89,0.1572,Rho Arietis has 1 carriers
+49,69,70,0.5146,Riedquat has 2 carriers
+-3,8,13,0.1052,Rigga has 1 carriers
+38,118,-124,1.4777,Rindrani has 7 carriers
+9,-24,62,0.0832,Rish has 8 carriers
+34,-4,-12,0.0556,Ross 1003 has 1 carriers
+75,42,3,0.4004,Ross 129 has 8 carriers
+-2,-2,9,0.2517,Ross 154 has 50 carriers
+-3,-9,-3,0.3878,Ross 248 has 4 carriers
+-23,-44,-74,0.0684,Ross 332 has 2 carriers
+-56,-28,-104,0.1836,Ross 376 has 1 carriers
+-3,5,-18,0.0698,Ross 47 has 2 carriers
+-50,-4,-20,0.0818,Ross 555 has 1 carriers
+-34,11,-36,0.1039,Ross 584 has 9 carriers
+-1,7,-11,0.1625,Ross 614 has 8 carriers
+63,56,27,0.2326,Ross 697 has 2 carriers
+-9,-19,7,0.1419,Ross 775 has 43 carriers
+-2,12,-34,0.1520,Ross 79 has 4 carriers
+15,-17,133,0.0546,Rutu has 8 carriers
+35,25,-14,0.1524,RY Sextantis has 3 carriers
+-101,46,1,0.0543,Santupik has 7 carriers
+-98,156,-31,1.4860,Sawait has 2 carriers
+-98,35,-70,0.0527,Scirth has 3 carriers
+-34,17,158,0.0593,Scorpii Sector IS-K a8-1 has 1 carriers
+-36,5,157,0.0601,Scorpii Sector JN-K a8-2 has 2 carriers
+-33,9,168,0.0734,Scorpii Sector LY-I a9-0 has 1 carriers
+78,48,-21,0.0778,Sharru Sector HM-V b2-1 has 2 carriers
+67,-25,-12,0.0768,Sheela Na Gig has 2 carriers
+-124,103,60,0.1657,Shente has 4 carriers
+18,56,27,3.2300,Shinrarta Dezhra has 0 carriers
+-33,15,-41,0.0843,Shokwa has 1 carriers
+-112,104,73,0.0563,Shui Wei Sector WE-Q b5-3 has 1 carriers
+7,-17,-3,0.0666,Sigma Draconis has 3 carriers
+-1,6,-6,0.2241,Sirius has 0 carriers
+53,-65,102,0.1665,Sitlanei has 3 carriers
+12,54,16,0.5179,Skeggiko O has 124 carriers
+68,-34,-21,0.0767,Sobek has 1 carriers
+47,78,82,0.3273,Socanti has 12 carriers
+0,0,0,0.4813,Sol has 0 carriers
+29,67,35,0.3925,Solati has 45 carriers
+8,74,18,0.0789,Sosong has 37 carriers
+10,-353,-346,0.0870,Sothis has 56 carriers
+6,3,-10,0.1322,SPF-LF 1 has 2 carriers
+2,-9,-15,0.0672,Stein 2051 has 1 carriers
+-147,-82,-341,0.1290,Sterope II has 16 carriers
+75,-34,-8,0.0800,STF 1774 has 10 carriers
+75,-21,-23,0.0699,Stheno has 1 carriers
+5,-11,0,0.1951,Struve 2398 has 20 carriers
+-17,-55,58,0.0720,Sun Takush has 1 carriers
+-5,-21,57,0.0622,Swaza has 1 carriers
+-129,394,-43,0.0527,Synuefe GC-Z b47-7 has 1 carriers
+663,-128,27,0.1665,Synuefe GV-T b50-4 has 5 carriers
+22,-13,-14,0.3034,SZ Ursae Majoris has 3 carriers
+-5,6,10,0.1564,Talta has 11 carriers
+-81,-13,-20,0.0664,Tarach Tor has 26 carriers
+-45,-3,-44,0.0564,Tascheter Sector BG-O a6-0 has 1 carriers
+-42,-14,-33,0.0988,Tascheter Sector EM-M a7-0 has 1 carriers
+-41,-9,-28,0.1176,Tascheter Sector EM-M a7-1 has 3 carriers
+-35,17,-23,0.0741,Tascheter Sector JX-K a8-0 has 1 carriers
+-11,0,-4,0.1419,Tau Ceti has 41 carriers
+-3,62,18,0.1133,Tawhaki has 3 carriers
+-7,-3,-9,0.1822,Teegarden.s star has 6 carriers
+-50,-6,11,0.1225,Tenerife has 2 carriers
+61,79,74,0.2507,Teorge has 1 carriers
+59,66,86,0.0549,Teveri has 2 carriers
+-65,-41,100,0.1886,Tharamamor has 4 carriers
+67,-30,-21,0.0594,Tiethay has 3 carriers
+10,69,18,0.1936,Timbalderis has 41 carriers
+49,82,68,0.2340,Tionisla has 50 carriers
+-43,-10,-34,0.1897,Tohil has 2 carriers
+109,47,26,0.1275,Tommavas has 1 carriers
+-11,8,-3,0.1090,Toolfa has 47 carriers
+-161,131,94,0.1498,Tucanae Sector YJ-A d71 has 9 carriers
+40,67,55,0.0829,Turdetani has 1 carriers
+-11,-5,-8,0.1116,TZ Arietis has 52 carriers
+-11,-20,66,0.0790,Ualapalor has 5 carriers
+0,9,-10,0.1529,UGPS 0722-05 has 19 carriers
+-69,-44,-111,0.0770,Umbila has 3 carriers
+49,69,75,0.5387,Uszaa has 16 carriers
+-8,0,-2,0.2938,UV Ceti has 16 carriers
+90,-235,315,0.0859,V0839 Ophiuchii has 3 carriers
+2,-15,3,0.2288,V1581 Cygni has 10 carriers
+18,-14,57,0.0542,V2367 Ophiuchii has 0 carriers
+-11,-27,3,0.0713,V374 Pegasi has 8 carriers
+12,45,27,0.6573,V886 Centauri has 124 carriers
+-106,63,22,0.0670,Vequess has 16 carriers
+-220,138,-12,0.1614,Vertnyi has 2 carriers
+35,65,52,0.0713,Vucub Huan has 3 carriers
+-39,6,-34,0.1076,Wala has 1 carriers
+-11,-12,66,0.0602,Willapa has 1 carriers
+0,130,-42,0.2365,Windri has 1 carriers
+-9,8,0,0.1579,WISE 0350-5658 has 1 carriers
+-14,13,-1,0.0668,WISE 0359-5401 has 9 carriers
+-6,0,-13,0.1113,WISE 0410+1502 has 7 carriers
+-2,7,2,0.2736,WISE 0855-0714 has 20 carriers
+7,-7,-2,0.1972,WISE 1506+7027 has 16 carriers
+-4,10,12,0.0692,WISE 1639-6847 has 3 carriers
+8,-12,10,0.0846,WISE 1741+2553 has 5 carriers
+-4,4,-15,0.0868,WISE J0521+1025 has 1 carriers
+-128,30,-50,0.2936,Witou has 36 carriers
+5,-1,13,0.1500,Wolf 1061 has 1 carriers
+1,-74,158,0.0601,Wolf 1463 has 1 carriers
+6,4,-2,0.2090,Wolf 359 has 27 carriers
+81,53,-14,0.0563,Wolf 363 has 14 carriers
+13,4,1,0.0970,Wolf 424 has 14 carriers
+7,-3,17,0.0707,Wolf 630 has 2 carriers
+16,-340,-349,0.1750,Wredguia ET-Q b32-2 has 1 carriers
+4,-305,-315,0.5628,Wredguia PA-N b34-4 has 1 carriers
+6,-294,-318,0.1683,Wredguia QA-N b34-0 has 1 carriers
+1,-295,-314,0.1024,Wredguia QA-N b34-1 has 1 carriers
+1,-293,-311,0.0755,Wredguia QA-N b34-2 has 2 carriers
+5,-354,-356,2.0395,Wredguia SX-L d7-92 has 1 carriers
+4,-298,-305,0.0884,Wredguia UG-L b35-2 has 5 carriers
+10,-298,-310,0.2006,Wredguia UH-U c16-10 has 11 carriers
+5,-315,-318,0.2931,Wredguia WD-K d8-74 has 1 carriers
+6,-295,-304,0.0678,Wredguia XD-K d8-55 has 2 carriers
+3,-299,-319,0.1921,Wredguia XD-K d8-56 has 9 carriers
+10,-301,-315,0.5736,Wredguia XD-K d8-57 has 18 carriers
+416,252,30,0.2211,Wregoe FZ-M b50-1 has 2 carriers
+38,378,-177,0.2231,Wregoe KA-B b41-5 has 0 carriers
+48,367,-165,0.0607,Wregoe NG-Z b41-6 has 1 carriers
+420,255,22,0.3341,Wregoe QM-G c25-1 has 2 carriers
+48,365,-170,0.0732,Wregoe SK-N c20-26 has 0 carriers
+38,377,-158,0.1466,Wregoe TK-N c20-6 has 1 carriers
+11,399,-150,0.9391,Wregoe TW-Y b41-6 has 1 carriers
+26,384,-153,0.1228,Wregoe XP-G d10-100 has 2 carriers
+53,371,-156,0.2479,Wregoe XP-G d10-81 has 1 carriers
+433,141,149,0.1099,Wregoe ZE-B c28-2 has 13 carriers
+14,-1,-7,0.0783,WX Ursae Majoris has 2 carriers
+45,-52,90,0.2329,Xamentii has 2 carriers
+-6,124,-49,0.1943,Xinca has 55 carriers
+4,69,16,0.1254,Y Velorum has 3 carriers
+-159,37,116,0.1995,Yaguvit has 1 carriers
+-176,5,-1,0.0730,Yaso Kondi has 1 carriers
+4,1,-9,0.1538,Yin Sector CL-Y d127 has 12 carriers
+-110,172,-21,0.3495,Yu Shun has 1 carriers
+5,11,-15,0.0655,YZ Canis Minoris has 1 carriers
+-12,-1,-2,0.2336,YZ Ceti has 15 carriers
+49,81,69,0.4740,Zaonce has 21 carriers
+-3,-20,-14,0.0719,Zeessze has 3 carriers
+10,-12,60,0.0832,Zemez has 3 carriers
+4,121,-35,0.1127,Zhang Fei has 2 carriers
+-21,2,-9,0.0768,Zhi has 2 carriers
+13,57,-25,0.0933,Zibel has 1 carriers
+-120,101,78,0.0590,Zombivaroa has 1 carriers
+-67,-43,-114,0.0816,Zvaiti has 1 carriers
