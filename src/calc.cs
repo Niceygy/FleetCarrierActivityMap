@@ -48,13 +48,14 @@ namespace FCAT
 
             if (neighbors.Count == 0) return node.Weight; // fallback
 
+
             double weightedSum = 0;
             double weightFactorSum = 0;
 
             foreach (var neighbor in neighbors)
             {
                 double d = node.DistanceTo(neighbor);
-                double factor = 1.0 / (d + 1e-6); // avoid divide by zero
+                double factor = 2.0 / (d + 1e-6); // avoid divide by zero
                 weightedSum += neighbor.Weight * factor;
                 weightFactorSum += factor;
             }

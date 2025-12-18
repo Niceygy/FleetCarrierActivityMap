@@ -141520,6 +141520,7 @@ Col 359 Sector GL-Z b16-2,145,-159,494
 Col 359 Sector GL-Z b16-4,141,-150,487
 Col 359 Sector GM-A b15-1,-108,-510,451
 Col 359 Sector GM-A c2-2,415,-423,184
+Col 359 Sector GM-B c14-0,-263,-19,696
 Col 359 Sector GM-C a30-2,-29,-421,443
 Col 359 Sector GM-C a30-3,-30,-419,444
 Col 359 Sector GM-C a30-4,-30,-416,439
@@ -142200,6 +142201,7 @@ Col 359 Sector GV-N c7-2,-10,-180,450
 Col 359 Sector GV-N c7-20,-4,-184,418
 Col 359 Sector GV-N c7-21,-19,-177,453
 Col 359 Sector GV-N c7-22,-24,-182,449
+Col 359 Sector GV-N c7-25,-181,-22,443
 Col 359 Sector GV-N c7-26,-2,-154,430
 Col 359 Sector GV-N c7-27,3,-150,426
 Col 359 Sector GV-N c7-28,-5,-153,427
@@ -170637,6 +170639,7 @@ Col 359 Sector UD-S d4-51,-9,-204,488
 Col 359 Sector UD-S d4-54,32,-161,505
 Col 359 Sector UD-S d4-57,-8,-190,500
 Col 359 Sector UD-S d4-58,-14,-189,503
+Col 359 Sector UD-S d4-59,-203,-14,505
 Col 359 Sector UD-S d4-62,19,-200,459
 Col 359 Sector UD-S d4-63,-16,-158,480
 Col 359 Sector UD-S d4-64,-14,-166,476
@@ -180414,6 +180417,7 @@ Col 359 Sector YZ-X d1-34,230,-513,264
 Col 359 Sector YZ-X d1-45,292,-489,276
 Col 359 Sector YZ-Y e14,216,-581,235
 Col 359 Sector ZA-A b16-3,22,-456,459
+Col 359 Sector ZA-A b16-5,-460,19,459
 Col 359 Sector ZA-E a29-3,-42,-470,429
 Col 359 Sector ZA-E a29-4,-38,-472,429
 Col 359 Sector ZA-E b16-0,437,-139,457
@@ -207252,6 +207256,7 @@ HIP 60108,353,-196,-157
 HIP 6011,-199,33,-3
 HIP 60112,347,143,36
 HIP 60115,197,-94,-79
+HIP 60116,-194,584,-187
 HIP 60119,-44,146,89
 HIP 6012,-315,-34,-68
 HIP 60125,592,-157,-167
@@ -272547,6 +272552,7 @@ NGC 2392 Sector VU-O b6-0,227,265,-692
 NGC 2392 Sector YV-M b7-0,160,237,-680
 NGC 2451A Sector AH-L b8-8,691,-76,-165
 NGC 2451A Sector QJ-Q b5-4,675,-89,-244
+NGC 2451A Sector TE-Q b5-3,699,-111,-225
 NGC 2451A Sector WK-O b6-2,695,-112,-209
 NGC 2451A Sector WU-P b5-2,690,-156,-230
 NGC 2632 ANM 1903,366,240,-477
@@ -329170,6 +329176,7 @@ Scutum Dark Region FL-Y c3,-32,-237,523
 Scutum Dark Region FL-Y c4,-27,-237,526
 Scutum Dark Region FL-Y c5,-31,-243,528
 Scutum Dark Region FL-Y c7,-29,-234,509
+Scutum Dark Region FM-C a13-5,-244,-28,632
 Scutum Dark Region FM-U b3-2,61,-266,559
 Scutum Dark Region FM-U b3-6,73,-267,573
 Scutum Dark Region FM-V b2-0,-8,-357,548
@@ -330024,6 +330031,7 @@ Scutum Dark Region QO-Q a5-2,-35,-330,555
 Scutum Dark Region QO-Q a5-5,-31,-333,545
 Scutum Dark Region QS-T b3-2,-19,-206,565
 Scutum Dark Region QS-T b3-3,-15,-223,558
+Scutum Dark Region QS-T b3-6,-218,-19,570
 Scutum Dark Region QS-T b3-8,-18,-213,572
 Scutum Dark Region QT-H a10-3,-33,-272,595
 Scutum Dark Region QT-Q b5-0,36,-264,598
@@ -370254,7 +370262,9 @@ Synuefai CY-U b22-0,-120,-331,-573
 Synuefai CY-U b35-1,-251,-179,-291
 Synuefai CY-U c18-3,-424,-599,-230
 Synuefai CY-V b47-0,-482,-100,-42
+Synuefai CY-X b48-1,-417,-72,-15
 Synuefai CY-X b48-3,-70,-421,-10
+Synuefai CY-X b48-7,-412,-74,-20
 Synuefai CY-X b48-8,-80,-411,-17
 Synuefai CY-Z b46-0,-234,-574,-51
 Synuefai CZ-A b46-0,-310,-128,-81
@@ -374032,6 +374042,7 @@ Synuefai FY-F d12-34,-45,-546,47
 Synuefai FY-F d12-35,-49,-560,51
 Synuefai FY-F d12-36,-39,-548,41
 Synuefai FY-F d12-37,-29,-558,32
+Synuefai FY-F d12-38,-547,-44,26
 Synuefai FY-F d12-47,-70,-581,26
 Synuefai FY-F d12-48,-25,-589,40
 Synuefai FY-F d12-64,-88,-575,16
@@ -376677,6 +376688,8 @@ Synuefai HY-F d12-38,-89,-443,25
 Synuefai HY-F d12-39,-43,-453,21
 Synuefai HY-F d12-42,-44,-422,-22
 Synuefai HY-F d12-43,-37,-425,-21
+Synuefai HY-F d12-48,-439,-68,-19
+Synuefai HY-F d12-49,-433,-68,-14
 Synuefai HY-F d12-50,-36,-415,4
 Synuefai HY-F d12-51,-78,-410,-19
 Synuefai HY-F d12-57,-51,-451,-24
@@ -382242,6 +382255,7 @@ Synuefai MB-K a63-1,-32,-323,-395
 Synuefai MB-K b55-1,-238,-579,129
 Synuefai MB-M c24-1,-58,-447,4
 Synuefai MB-M c24-15,-61,-438,5
+Synuefai MB-M c24-17,-452,-61,-19
 Synuefai MB-M c24-5,-54,-449,-13
 Synuefai MB-M c24-7,-28,-464,-4
 Synuefai MB-M c24-9,-29,-462,1
@@ -387042,6 +387056,7 @@ Synuefai PN-R d5-11,-378,-248,-572
 Synuefai PN-R d5-12,-370,-265,-528
 Synuefai PN-R d5-2,-362,-288,-550
 Synuefai PN-R d5-6,-419,-269,-546
+Synuefai PN-S a99-0,-373,-72,-3
 Synuefai PN-S b37-2,-142,-363,-255
 Synuefai PN-S b50-1,-279,-198,19
 Synuefai PN-S b50-2,-284,-190,21
@@ -387523,9 +387538,12 @@ Synuefai PW-J a63-0,-43,-314,-388
 Synuefai PW-J a63-1,-41,-314,-389
 Synuefai PW-L c24-0,-85,-397,-18
 Synuefai PW-L c24-11,-82,-389,-16
+Synuefai PW-L c24-12,-423,-75,-15
 Synuefai PW-L c24-23,-71,-398,9
 Synuefai PW-L c24-25,-72,-399,6
 Synuefai PW-L c24-3,-76,-404,11
+Synuefai PW-L c24-31,-396,-68,-10
+Synuefai PW-L c24-32,-403,-69,-16
 Synuefai PW-L c24-8,-67,-405,-20
 Synuefai PW-N b26-1,-122,-401,-503
 Synuefai PW-N b39-1,-252,-226,-208
@@ -442492,6 +442510,7 @@ Synuefe NH-U c19-11,-150,383,-192
 Synuefe NH-U c19-12,-162,376,-203
 Synuefe NH-U c19-13,-146,406,-212
 Synuefe NH-U c19-14,-148,402,-210
+Synuefe NH-U c19-15,400,-147,-216
 Synuefe NH-U c19-19,-174,404,-188
 Synuefe NH-U c19-2,-151,404,-187
 Synuefe NH-U c19-3,-171,387,-202
@@ -496354,6 +496373,7 @@ Wredguia FM-J c23-6,296,-344,-41
 Wredguia FM-J c23-7,308,-341,-27
 Wredguia FM-K c22-1,158,-499,-80
 Wredguia FM-K c22-8,160,-483,-87
+Wredguia FM-L b38-0,-192,582,-240
 Wredguia FM-M b37-0,499,-281,-261
 Wredguia FM-Q b46-1,42,-427,-60
 Wredguia FM-Q b46-2,42,-432,-65
@@ -502100,6 +502120,7 @@ Wredguia LH-R c19-2,457,-170,-223
 Wredguia LH-S c18-1,300,-343,-258
 Wredguia LH-S c18-3,307,-331,-259
 Wredguia LH-T c17-2,149,-484,-303
+Wredguia LH-U b33-0,-203,578,-344
 Wredguia LH-V b32-0,500,-282,-360
 Wredguia LH-X b30-0,338,-441,-405
 Wredguia LH-Y b42-1,132,-363,-134
@@ -510923,6 +510944,7 @@ Wredguia TT-O c20-6,301,-313,-166
 Wredguia TT-P c19-10,160,-470,-208
 Wredguia TT-P c19-2,148,-483,-193
 Wredguia TT-P c19-3,151,-487,-193
+Wredguia TT-Q b35-0,-204,579,-289
 Wredguia TT-R b34-0,496,-281,-319
 Wredguia TT-T b32-0,351,-440,-350
 Wredguia TT-V b43-0,38,-439,-123
@@ -512210,6 +512232,7 @@ Wredguia UZ-G b40-0,479,-262,-204
 Wredguia UZ-I b38-0,317,-425,-241
 Wredguia UZ-K b36-1,158,-571,-272
 Wredguia UZ-K b49-0,16,-407,4
+Wredguia UZ-K b49-2,-415,31,0
 Wredguia UZ-K b49-3,15,-416,5
 Wredguia UZ-K b49-6,23,-414,0
 Wredguia UZ-K b49-7,31,-411,12
@@ -513556,6 +513579,7 @@ Wredguia WE-G c24-9,-3,-435,-23
 Wredguia WE-G d11-12,544,-178,-84
 Wredguia WE-G d11-13,537,-171,-72
 Wredguia WE-G d11-3,600,-192,-37
+Wredguia WE-G d11-5,-186,580,-75
 Wredguia WE-G d11-6,581,-146,-69
 Wredguia WE-H b24-0,79,-180,-542
 Wredguia WE-H d10-39,247,-477,-162

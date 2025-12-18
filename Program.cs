@@ -24,15 +24,19 @@ namespace FCAT
             StreamWriter writer = new("html/plot.csv");
             writer.WriteLine("x,y,z,opacity,label");
 
-            foreach (var node in nodes)
+            Parallel.ForEach(nodes, node =>
             {
                 double neighborhoodWeight = Calc.ComputeNeighborhoodWeight(node, nodes, radius);
                 double opacity = node.GetOpacity(0, maxWeight, neighborhoodWeight);
-                if (opacity > 0.05)
+                if (opacity > 5)
                 {
-                    writer.WriteLine($"{node.X},{node.Y},{node.Z},{opacity:F4},{node.DisplayName} has {node.Weight} carriers");
+                    lock (writer)
+                    {
+                        writer.WriteLine($"{node.X},{node.Y},{node.Z},{opacity:F4},{node.DisplayName} has {node.Weight} carriers");
+                    }
                 }
-            }
+            });
+
 
             writer.Close();
             Console.WriteLine("Complete");

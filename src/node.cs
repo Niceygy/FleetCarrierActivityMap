@@ -28,6 +28,8 @@ namespace FCAT
             double expScale = Math.Pow(normalized, 3);
             double opacity = 10 * expScale;
 
+            opacity = /*Math.Round(*/opacity * 255;
+
             return opacity;
         }
 

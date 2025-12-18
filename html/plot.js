@@ -16,7 +16,8 @@ d3.csv("plot.csv", function (err, rows) {
         size: 12,
         color: rows.map((row) => `rgba(41,70,${row.opacity},0.5)`),
         line: {
-          color: rows.map((row) => `rgba(41,70,${row.opacity},0.5)`),
+          //Math.round(row.opacity * 255)
+          color: rows.map((row) => `rgba(41,70,${row.opacity})},0.5)`),
           width: 1,
         },
       },
