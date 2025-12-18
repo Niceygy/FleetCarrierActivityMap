@@ -25,7 +25,7 @@ namespace FCAT
             int TableLength = Convert.ToInt32(reader.GetInt64(0));
             return TableLength;
         }
-        public static async Task<List<string>> LoadStarSystemsAsync()
+        public static async Task<List<string>> LoadStarSystemsAsync(int cacheDiffThreshold)
         {
             using var conn = new MySqlConnection(CreateConnectionStr().ConnectionString);
             await conn.OpenAsync();
@@ -35,7 +35,7 @@ namespace FCAT
             int cacheFileLen = File.ReadLines(@"systems.csv").Count();
             int tableLen = await GetTableLenth(conn, "star_systems");
 
-            if (!(File.Exists("systems.csv") && cacheFileLen == tableLen))
+            if (!(File.Exists("systems.csv") && Math.Abs(cacheFileLen - tableLen) <= cacheDiffThreshold))
             {//pull table
                 Console.WriteLine("Updating systems.csv cache file");
 
@@ -78,7 +78,7 @@ namespace FCAT
             }
             return result;
         }
-        public static async Task<List<string>> LoadCarriersAsync()
+        public static async Task<List<string>> LoadCarriersAsync(int cacheDiffThreshold)
         {
             using var conn = new MySqlConnection(CreateConnectionStr().ConnectionString);
             await conn.OpenAsync();
@@ -88,7 +88,7 @@ namespace FCAT
             int cacheFileLen = File.ReadLines(@"carriers.csv").Count();
             int tableLen = await GetTableLenth(conn, "FleetCarriers");
 
-            if (!(File.Exists("carriers.csv") && cacheFileLen == tableLen))
+            if (!(File.Exists("carriers.csv") && Math.Abs(cacheFileLen - tableLen) <= cacheDiffThreshold))
             {//pull table
                 Console.WriteLine("Updating carriers.csv cache file");
 
@@ -102,7 +102,7 @@ namespace FCAT
                 while (reader.Read())
                 {
                     string system_name = reader.GetString("system_name");
-                    int carriers = /*Convert.ToInt32(*/reader.GetInt32("carriers")/*)*/;
+                    int carriers = reader.GetInt32("carriers");
 
                     //Purico,87
                     result.Add($"{system_name},{carriers}");
